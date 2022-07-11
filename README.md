@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Scopynask
+- 👀 I’m interested in creating fun Python/HTML/Java/Javascript programs to mess around on VMs
+- 🌱 I’m currently learning HTML/CSS
